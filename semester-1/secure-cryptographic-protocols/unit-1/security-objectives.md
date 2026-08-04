@@ -120,6 +120,3 @@ Consider an online banking system:
 
 ***
 
-#### 💡 Note for this Course
-
-The syllabus specifically mentions **"Security objectives as uncertainty reduction and leakage control."** In the **next topic**, you'll learn how cryptography achieves these objectives by **reducing an attacker's uncertainty** about secret information and **controlling information leakage**. This naturally connects **Security Objectives** with **Security as Uncertainty Reduction & Leakage Control**.
