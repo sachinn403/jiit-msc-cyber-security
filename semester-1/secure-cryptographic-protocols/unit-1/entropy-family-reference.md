@@ -1,4 +1,4 @@
-# Copy of 📊 Mutual Information
+# 📚 Entropy Family (Reference)
 
 ## 📚 Entropy Family&#x20;
 
