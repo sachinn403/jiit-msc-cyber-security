@@ -53,23 +53,22 @@ Each outcome has a probability.
 
 The probabilities must satisfy:
 
-* (0 \le P(x\_i) \le 1)
-* (\sum P(x\_i)=1)
+* 0 ≤ P(x) ≤ 1
+* P(A) + P(B) + P(C) = 1
 
 ***
 
 ### 📐 Formula
 
-\[\
-H(X)=-\sum\_{i=1}^{n}P(x\_i)\log\_2P(x\_i)\
-]
+H(X) = − Σᵢ₌₁ⁿ P(xᵢ) × log₂(P(xᵢ))
 
 #### Where
 
-* **H(X)** = Shannon Entropy
-* **P(xᵢ)** = Probability of the _&#x69;_&#x1D57;ʰ outcome
-* **log₂** = Logarithm to base 2
-* **n** = Total number of outcomes
+* H(X) = Shannon Entropy
+* P(xᵢ) = Probability of the iᵗʰ outcome
+* Σ = Summation (add all outcomes)
+* log₂ = Logarithm to base 2
+* n = Number of possible outcomes
 
 ***
 
