@@ -1,2 +1,2 @@
-# 🔹 Shannon Entropy
+# 📊 Shannon Entropy
 

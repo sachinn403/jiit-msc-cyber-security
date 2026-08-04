@@ -35,7 +35,7 @@ Cloud & Security
 
 [**GitHub**](https://github.com/sachinn403)
 
-[**LinkedIn**](https://www.linkedin.com/in/sachin403/)<br>
+[**LinkedIn**](https://www.linkedin.com/in/sachin403/)
 
 ***
 

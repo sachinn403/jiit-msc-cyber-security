@@ -1,2 +1,2 @@
-# 🔹 Security Objectives
+# 🎯 Security Objectives
 

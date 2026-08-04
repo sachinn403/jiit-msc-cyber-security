@@ -1,2 +1,2 @@
-# 🔹 Perfect Secrecy
+# 🔒 Perfect Secrecy
 

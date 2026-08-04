@@ -1,2 +1,2 @@
-# 🔹 Conditional Entropy
+# 📊 Conditional Entropy
 

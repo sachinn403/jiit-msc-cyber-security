@@ -1,2 +1,2 @@
-# 🔹 Mutual Information
+# 📊 Mutual Information
 
