@@ -125,97 +125,123 @@ If most users choose **123456** or **password**, entropy is low, making password
 
 ***
 
-### 🧮 Solved Numerical 1 — Fair Coin
+### 🧮 Solved Numerical 1 – Fair Coin
 
 #### Given
 
-* P(H)=0.5
-* P(T)=0.5
+* P(H) = 0.5
+* P(T) = 0.5
+
+#### Formula
+
+H(X) = −Σ P(x) log₂ P(x)
 
 #### Solution
 
-\[\
-H(X)=-(0.5\log\_20.5+0.5\log\_20.5)\
-]
+H(X)
 
-Since
+\= −\[(0.5 × log₂0.5) + (0.5 × log₂0.5)]
 
-\[\
-\log\_20.5=-1\
-]
+Since,
 
-\[\
-H(X)=-(0.5(-1)+0.5(-1))\
-]
+log₂0.5 = −1
 
-\[\
-H(X)=1\text{ bit}\
-]
+Therefore,
 
-**Answer:** **1 bit**
+\= −\[(0.5 × −1) + (0.5 × −1)]
+
+\= −(−0.5 − 0.5)
+
+\= 1 bit
+
+#### Answer
+
+**Entropy = 1 bit**
 
 ***
 
-### 🧮 Solved Numerical 2 — Three Equal Outcomes
+### 🧮 Solved Numerical 2 – Three Equal Outcomes
 
 #### Given
 
-* P(A)=1/3
-* P(B)=1/3
-* P(C)=1/3
+* P(A) = 1/3
+* P(B) = 1/3
+* P(C) = 1/3
+
+#### Formula
+
+H(X) = −Σ P(x) log₂ P(x)
 
 #### Solution
 
-\[\
-H(X)=-\
-\left(\
-\frac13\log\_2\frac13+\
-\frac13\log\_2\frac13+\
-\frac13\log\_2\frac13\
-\right)\
-]
+H(X)
 
-\[\
-\=-3\left(\frac13\log\_2\frac13\right)\
-]
+\= −\[(1/3 × log₂(1/3))
 
-\[\
-\=\log\_23\
-]
+* (1/3 × log₂(1/3))
+* (1/3 × log₂(1/3))]
 
-\[\
-\approx1.585\text{ bits}\
-]
+Since all three terms are equal,
 
-**Answer:** **1.585 bits**
+\= −3 × (1/3 × log₂(1/3))
+
+\= −log₂(1/3)
+
+\= log₂3
+
+≈ 1.585 bits
+
+#### Answer
+
+**Entropy ≈ 1.585 bits**
 
 ***
 
-### 🧮 Solved Numerical 3 — Unequal Probabilities
+### 🧮 Solved Numerical 3 – Unequal Probabilities
 
 #### Given
 
-* P(A)=0.5
-* P(B)=0.3
-* P(C)=0.2
+* P(A) = 0.5
+* P(B) = 0.3
+* P(C) = 0.2
+
+#### Formula
+
+H(X) = −Σ P(x) log₂ P(x)
 
 #### Solution
 
-\[\
-H(X)=-(0.5\log\_20.5+0.3\log\_20.3+0.2\log\_20.2)\
-]
+H(X)
 
-Using logarithm values:
+\= −\[(0.5 × log₂0.5)
 
-* (\log\_20.5=-1)
-* (\log\_20.3\approx-1.737)
-* (\log\_20.2\approx-2.322)
+* (0.3 × log₂0.3)
+* (0.2 × log₂0.2)]
 
-\[\
-H(X)\approx1.485\text{ bits}\
-]
+Using,
 
-**Answer:** **≈ 1.485 bits**
+log₂0.5 = −1
+
+log₂0.3 ≈ −1.737
+
+log₂0.2 ≈ −2.322
+
+Substituting,
+
+\= −\[(0.5 × −1)
+
+* (0.3 × −1.737)
+* (0.2 × −2.322)]
+
+\= −\[−0.5 −0.5211 −0.4644]
+
+\= 1.4855 bits
+
+≈ 1.485 bits
+
+#### Answer
+
+**Entropy ≈ 1.485 bits**
 
 ***
 
