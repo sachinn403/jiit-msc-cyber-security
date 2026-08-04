@@ -15,6 +15,7 @@
     * [📊 Shannon Entropy](semester-1/secure-cryptographic-protocols/unit-1/shannon-entropy.md)
     * [📊 Conditional Entropy](semester-1/secure-cryptographic-protocols/unit-1/conditional-entropy.md)
     * [📊 Mutual Information](semester-1/secure-cryptographic-protocols/unit-1/mutual-information.md)
+    * [Copy of 📊 Mutual Information](semester-1/secure-cryptographic-protocols/unit-1/copy-of-mutual-information.md)
     * [🔒 Perfect Secrecy](semester-1/secure-cryptographic-protocols/unit-1/perfect-secrecy.md)
     * [🔑 One-Time Pad (OTP)](semester-1/secure-cryptographic-protocols/unit-1/one-time-pad-otp.md)
     * [⚖️ Computational vs Information-Theoretic Security](semester-1/secure-cryptographic-protocols/unit-1/computational-vs-information-theoretic-security.md)
