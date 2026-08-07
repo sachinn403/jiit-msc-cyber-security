@@ -1,2 +1,0 @@
-# 📄 Professor's Numerical Problems
-
