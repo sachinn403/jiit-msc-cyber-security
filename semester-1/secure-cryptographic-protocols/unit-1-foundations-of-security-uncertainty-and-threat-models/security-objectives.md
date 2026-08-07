@@ -1,9 +1,5 @@
 # 🎯 Security Objectives
 
-## 🎯 Security Objectives
-
-***
-
 ### 📖 Overview
 
 Security objectives define the primary goals of protecting information, communication systems, and digital assets from unauthorized access, modification, disclosure, destruction, or disruption. They establish the fundamental requirements that every secure system must satisfy and serve as the cornerstone of modern cryptography, cybersecurity, and information security.

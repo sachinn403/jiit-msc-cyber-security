@@ -1,9 +1,5 @@
 # 🔍 Security as Uncertainty Reduction & Leakage Control
 
-## 🔍 Security as Uncertainty Reduction & Leakage Control
-
-***
-
 ### 📖 Overview
 
 Security in cryptography is achieved by reducing an attacker's uncertainty about secret information while minimizing the amount of information leaked during communication. The less information an attacker can infer, the more secure the cryptographic system becomes.
